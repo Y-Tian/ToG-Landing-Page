@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ToG-Landing-Page/static/css/main.68166fff.chunk.css",
+    "main.js": "/ToG-Landing-Page/static/js/main.4239a22a.chunk.js",
+    "main.js.map": "/ToG-Landing-Page/static/js/main.4239a22a.chunk.js.map",
+    "runtime-main.js": "/ToG-Landing-Page/static/js/runtime-main.0362cd0d.js",
+    "runtime-main.js.map": "/ToG-Landing-Page/static/js/runtime-main.0362cd0d.js.map",
+    "static/js/2.e7b66a9d.chunk.js": "/ToG-Landing-Page/static/js/2.e7b66a9d.chunk.js",
+    "static/js/2.e7b66a9d.chunk.js.map": "/ToG-Landing-Page/static/js/2.e7b66a9d.chunk.js.map",
+    "index.html": "/ToG-Landing-Page/index.html",
+    "precache-manifest.44ae64215f89f3e4c468055c1e41649a.js": "/ToG-Landing-Page/precache-manifest.44ae64215f89f3e4c468055c1e41649a.js",
+    "service-worker.js": "/ToG-Landing-Page/service-worker.js",
+    "static/css/main.68166fff.chunk.css.map": "/ToG-Landing-Page/static/css/main.68166fff.chunk.css.map",
+    "static/js/2.e7b66a9d.chunk.js.LICENSE.txt": "/ToG-Landing-Page/static/js/2.e7b66a9d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0362cd0d.js",
+    "static/js/2.e7b66a9d.chunk.js",
+    "static/css/main.68166fff.chunk.css",
+    "static/js/main.4239a22a.chunk.js"
+  ]
+}
