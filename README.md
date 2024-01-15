@@ -2,6 +2,10 @@
 
 Images sourced from: https://www.prydwen.gg/tog/characters
 
+---
+
+Deployment process highlighted here: https://github.com/gitname/react-gh-pages
+
 ## Available Scripts
 
 In the project directory, you can run:
